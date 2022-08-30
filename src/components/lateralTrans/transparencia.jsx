@@ -24,7 +24,7 @@ const Trans = () => {
             <p className="creditos">eduardzs_</p>
         </form>
         <div className="imagemContainer">
-            <img className="imagem" src=".\src\assets\img\login.svg" alt="Imagem" />
+            <img className="imagem" src="./loginPage/src/assets/img/login.svg" alt="Imagem" />
         </div>
     </div>
 }
