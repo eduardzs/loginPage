@@ -1,6 +1,7 @@
 import React,{useState} from "react";
 import './transparencia.css'
 import fazerLoginAPI from "../../api/api";
+import imagem from '../../assets/img/login.svg'
 
 const Trans = () => {
     const [inputLogin, setInputLogin] = useState(false)
@@ -24,7 +25,7 @@ const Trans = () => {
             <p className="creditos">eduardzs_</p>
         </form>
         <div className="imagemContainer">
-            <img className="imagem" src="src\assets\img\login.svg" alt="Imagem" />
+            <img className="imagem" src={imagem} alt="Imagem" />
         </div>
     </div>
 }
