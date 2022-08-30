@@ -1,5 +1,9 @@
 <h2>Frontend Login Page</h2>
 
+<div style="width: 100%;" align="center">
+    <img src="./img/teste.gif" alt="Gif do Projeto"><br><br>
+</div>
+
 <a href="https://login-page-xi-nine.vercel.app/" target=”_blank”>Link do Projeto</a>
 
 <p>Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS.</p>
