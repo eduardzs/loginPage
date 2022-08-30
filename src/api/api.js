@@ -15,7 +15,7 @@ const fazerLoginAPI = async(login, senha) => {
         redirect: 'follow'
     };
 
-    let response = await fetch("http://localhost:3350/fazerLogin", requestOptions)
+    let response = await fetch("https://login-page-backend.vercel.app/fazerLogin", requestOptions)
         let responseTxt = await response.text()
         let txtTrans = JSON.parse(responseTxt)
         return txtTrans
