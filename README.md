@@ -6,7 +6,7 @@
 
 <a href="https://login-page-xi-nine.vercel.app/" target=”_blank”>Link do Projeto</a>
 
-<p>Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS.</p>
+<p>Esse projeto foi feito visando a consolidação dos conhecimentos básicos de ReactJS e FETCH.</p>
 
 <p>Para está construção foram usados os conceitos de states, props, components e stylesheet (flex e grid).</p>
 
